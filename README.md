@@ -109,6 +109,5 @@ app/src/main/java/com/example/gatepass/
 
 ## Author
 
-**Subham Singh**
-BCA Student | Android Developer
-GitHub: [github.com/itz-subham](https://github.com/itz-subham)
+Subham Singh  | Android Developer GitHub: github.com/itz-subham
+Arnab Kumar Mohapatra | Android Developer GitHub: github.com/arnabkumarmohapatra-netizen
